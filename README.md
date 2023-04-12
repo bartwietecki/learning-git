@@ -2,4 +2,4 @@
 
 ## This repo was used to learn git from Amigoscode
 
-![2696518670](https://user-images.githubusercontent.com/119629815/231405648-36b152ce-9f7f-4cf5-993e-bf68083fb258.jpg)
+![1 copy](https://user-images.githubusercontent.com/40702606/109077075-81b22b80-76f3-11eb-803c-d7a364b55d84.png)
